@@ -1,0 +1,7 @@
+{
+  "engine": "openai",
+  "url": "https://api.openai.com/v1/audio/speech",
+  "model": "gpt-4o-mini-tts",
+  "voice": "onyx",
+  "api_key_env": "OPENAI_API_KEY"
+}

@@ -1,0 +1,25 @@
+# secrets — never commit
+.env
+*.key
+*.token
+auth.json
+.credentials.json
+secrets/
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+tn-venv/
+.pytest_cache/
+# working files (books are copyrighted; keep them out)
+work/
+*.epub
+*.pdf
+*.mobi
+*.azw3
+# render output
+out/
+cache/
+*.wav
+*.mp3

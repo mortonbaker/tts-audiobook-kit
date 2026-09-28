@@ -1,0 +1,4 @@
+{
+  "engine": "command",
+  "cmd": "piper --model en_US-lessac-high.onnx --output_file {out}"
+}

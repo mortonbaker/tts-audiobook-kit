@@ -1,0 +1,6 @@
+{
+  "engine": "chatterbox",
+  "voice": "narrator.wav",
+  "options": {"exaggeration": 0.4, "cfg_weight": 0.5},
+  "seed": 1234
+}
